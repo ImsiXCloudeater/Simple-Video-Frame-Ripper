@@ -37,20 +37,4 @@ Installation
 
 Click the launcher.sh file. This will automatically install all dependencies onto your computer. Afterwards the Simple Video Frame Ripper will launch. 
 
-bash
-Copy code
-python install_py.py
-Launch the Application: After installation, run the vfr.pyw script to start the application.
-
-bash
-Copy code
-python program/vfr.pyw
-Manual Installation (if needed)
-If you prefer to manually install dependencies, you can use the following commands:
-
-bash
-Copy code
-pip install opencv-python
-pip install ttkthemes
-pip install pillow
 
